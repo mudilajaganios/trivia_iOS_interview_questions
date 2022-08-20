@@ -1,5 +1,5 @@
-# trivia iOS interview questions
-I am listing down some repetitive interview questions I have been facing these days.
+# iOS interview questions
+I am listing down some repetitive interview questions I have been facing these days. I don't know how I was evaluated by answering these questions. But somehow these are the messages from the gods.
 
 1. What is NSManagedObject?
 2. What are Codable, Encodable & Decodable?
@@ -21,3 +21,5 @@ I am listing down some repetitive interview questions I have been facing these d
 18. What is optional chaining and optional binding?
 19. What is content hugging and compression resistance?
 20. What is @escaping closure?
+21. How to write test cases for UIViewControllers?
+22. 
