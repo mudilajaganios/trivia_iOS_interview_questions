@@ -2,9 +2,12 @@
 I am listing down some of the repetitive interview questions I have been facing these days. I don't know how I was evaluated by answering these questions. But somehow these are the messages from the gods.
 
 ## 1. What is NSManagedObject?
-> My Answer
+> My Answer: 
+
 > NSManagedObject is the representation of Core Data Entity. Which holds attributes and relationships.
+
 > Expected Answer
+
 > A managed object has an associated entity description (NSEntityDescription) that provides metadata about the object, including the name of the entity that the object represents and the names of its attributes and relationships. A managed object also has an associated managed object context that tracks changes to the object graph.
 
 > You can’t use instances of direct subclasses of NSObject, or any other class that doesn’t inherit from NSManagedObject, with a managed object context. You may create custom subclasses of NSManagedObject, although this isn’t always necessary. If you don’t need custom logic, you can create a complete object graph with NSManagedObject instances.
